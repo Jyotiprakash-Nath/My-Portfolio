@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Amazon ML Summer School",
+    "organisation": "Amazon",
+    "startDate": "July, 2024",
+    "endDate": "Aug,2024",
+    "experiences": [
+      "Acquired practical knowledge in essential machine learning topics directly from Amazon Scientists.",
+      "Interacted with Amazon Scientists to explore advanced topics like generative AI and causal inference"
+    ],
+    "imageSrc": "history/amz.png"
+  },
+  {
+    "role": "SN Bose Summer Intern",
+    "organisation": "NIT Silchar",
+    "startDate": "June, 2024",
+    "endDate": "Aug,2024",
+    "experiences": [
+      "Worked on making a Waste Food Distribution Management System",
+      "Worked with technologies like Nodejs,MongoDB,Express"
+    ],
+    "imageSrc": "history/nits.png"
+  },
+  {
+    "role": "Data Science Intern",
+    "organisation": "Unified Mentor private Limited",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Analyzed large datasets using SQL and Python",
+      "Developed and presented data visualizations using Tableau"
+    ],
+    "imageSrc": "history/um.jpeg"
+  }
+]
